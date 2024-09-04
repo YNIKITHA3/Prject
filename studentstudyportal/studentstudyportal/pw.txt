@@ -1,0 +1,2 @@
+superuser name=root
+pw=root123
