@@ -1,0 +1,2 @@
+# Prject
+Django application
